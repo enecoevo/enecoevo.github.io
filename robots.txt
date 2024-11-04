@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://enecoevo.github.io/bnq/sitemap_index.txt
+Sitemap: https://enecoevo.github.io/cWs/sitemap_index.txt
+Sitemap: https://enecoevo.github.io/qYw/sitemap_index.txt
+Sitemap: https://enecoevo.github.io/wTH/sitemap_index.txt
